@@ -2,7 +2,7 @@ package juegoCraps;
 
 import java.util.Random;
 
-public class dado {
+public class Dado {
     private int cara;
 
     public int getCara() {
